@@ -1,0 +1,16 @@
+Google Environment
+
+Project Name: WomenInTechSQL
+Instance Name: wit
+
+Connect to dabase in GC SQL:
+gcloud sql connect  wit --user=postgres
+
+
+
+
+Connecting the Fivetran to the GC Postgres database
+
+https://fivetran.com/docs/databases/postgresql/gcs-setup-guide
+fivetran
+fivetran5
